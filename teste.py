@@ -37,7 +37,7 @@ def wish():
 
         print()
 
-        if "#APROVADA" in re:
+        if "#ewfbhdsfbdsjbfnsdfj" in re:
             print(y)
 
 
